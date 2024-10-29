@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    background-color: darkgrey;
+    color:darkblue;
+    margin: 0;
+    padding: 500px;
+
+}
+
+.message{
+    font-size: 2em;
+    color: black;
+    padding: 20px;
+    border: 2px solid ;
+    border-radius: 8px;
+    
+}
