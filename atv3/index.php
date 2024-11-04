@@ -1,7 +1,8 @@
+<?php
 
-
-    $nome = "Mago🧙🏼"
+    $nome = "Mago🧙🏼";
 
 
     echo "Ola $nome";
 
+>?
